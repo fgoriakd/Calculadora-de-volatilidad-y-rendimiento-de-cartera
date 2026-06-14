@@ -1,0 +1,2 @@
+# Calculadora-de-volatilidad-y-rendimiento-de-cartera
+Esta calculadora calcula el desvio estándar y rentabilidad acumulada de la cartera en la ventana temporal que se elija. La cartera es cargada en el programa a través de un Excel, el cual tiene su vector de Tickers y Weights dentro del portfolio. También grafica los resultados y los compara con un benchmark a elección. Instrucciones en el script.
