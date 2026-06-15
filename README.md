@@ -5,3 +5,4 @@ Primero se mapea donde se encuentran tus vectores:
 En "fila comienzo de vectores" pones en que fila comienzan tus vectores. Si los vectores estan, por ejemplo en B2:B22 y F2:F22, tenes que poner 1. Si arrancan de la fila A, pones 0, si arrancan de la 2 pones 3.
 El mismo razonamiento se aplica para las columnas. Si tu vector de tickers está en la columna A, pones 0. Si esta en la B, pones 1.
 Una vez se da click a "Procesar portfolio" se va a abrir una ventana con el gráfico correspondiente y el análisis completo del programa. Existe un pequeño botón debajo que permite guardar la imagen de la ventana en formato PNG.
+Desde releases se puede bajar el .exe de este programa
